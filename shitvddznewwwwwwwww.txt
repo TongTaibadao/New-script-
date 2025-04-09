@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("Tổng Tài đz off Script ")
